@@ -36,7 +36,7 @@ Early Stopping is used to prevent overfitting, halting training when the validat
 How to Run
 1. Clone the Repository
 
-git clone https://github.com/your-username/age-gender-detection.git
+git clone https://github.com/abhinavyadav11/age-genderDetection.git
 cd age-gender-detection
 
 2. Install Dependencies
@@ -59,7 +59,10 @@ data/
 
 4. Load the Model
 
+a) Gender Model : https://www.dropbox.com/scl/fi/bv6mddeixhqcqm66em7uu/Gender_Prediction_model.h5rlkey=nte1f7e3jafgi1fxghxmf4g4f&st=xq68w5te&dl=0
 
+b) Age Model : 
+https://www.dropbox.com/scl/fi/lhehid0iw9g315805od5a/Age_Prediction_model.h5?rlkey=7y6wc5jxe6mqiz1hjewehue4d&st=28m6jez8&dl=0
 
 
 
